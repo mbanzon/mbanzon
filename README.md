@@ -4,6 +4,8 @@ My name is Michael Banzon 🧑‍💻
 
 I am currently working on various personal projects:
 - Some middleware for Go [[1]](https://github.com/mbanzon/timing) [[2]](https://github.com/mbanzon/header) [[3]](https://github.com/mbanzon/nocache) [[4]](https://github.com/mbanzon/cors)
+- A library for parsing UDP data for the F1 2021 game
+- Chatbots for Discord and Twitch
 - Unnamed gaming related project (repo soon)
 - A news reader + service (repo soon)
 
